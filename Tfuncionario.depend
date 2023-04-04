@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1679148308 source:c:\users\diasb\onedrive\햞ea de trabalho\tfuncionario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Tfuncionario.h"
+
+1679147305 c:\users\diasb\onedrive\햞ea de trabalho\tfuncionario\tfuncionario.h
+	<stdlib.h>
+	<stdio.h>
+
+1679147489 source:c:\users\diasb\onedrive\햞ea de trabalho\tfuncionario\tfuncionario.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Tfuncionario.h"
+
+1679495258 source:c:\users\diasb\onedrive\햞ea de trabalho\aeds 2 final do periodo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Tfuncionario.h"
+
+1679494942 c:\users\diasb\onedrive\햞ea de trabalho\aeds 2 final do periodo\tfuncionario.h
+	<stdlib.h>
+	<stdio.h>
+
+1679495110 source:c:\users\diasb\onedrive\햞ea de trabalho\aeds 2 final do periodo\tfuncionario.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Tfuncionario.h"
+
